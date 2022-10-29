@@ -55,9 +55,9 @@ Algorithm Description:
 
 ITERATIONS:
 
-5 bots = 528
-10 bots = 277
-15 bots = 211
+- 5 bots = 528
+- 10 bots = 277
+- 15 bots = 211
 
 ## Screenshots
 ![Screenshot 1](Screenshot1.png?raw=true)
