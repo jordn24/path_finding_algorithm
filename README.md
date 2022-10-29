@@ -16,7 +16,7 @@ Libaries:
 
 ```sh
 python main.py
-```sh
+```
 
 Then press 'q' to begin.
 
